@@ -1,8 +1,4 @@
-Here’s a clean, professional **`README.md`** style file you can directly commit.
 
----
-
-````md
 # Website Rating Database Schema
 
 This document describes the database schema and initial data setup for the **Website Rating Application**.

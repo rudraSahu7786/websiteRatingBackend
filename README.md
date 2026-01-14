@@ -1,4 +1,4 @@
-Create database websiteRatingDb
+Create database websiteRatingDb;
 use websiteRatingDb;
 CREATE TABLE user (
     UserID INT PRIMARY KEY,
